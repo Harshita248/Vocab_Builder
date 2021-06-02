@@ -1,6 +1,6 @@
 # vocab_builder
 
-`A vocabulary building app i.e. dictionary which will you can use to increase your vocabulary as you watch movies or read books.`
+#### `A vocabulary building app i.e. dictionary which you can use to increase your vocabulary as you watch movies or read books.`
 
 
 ## Screenshot 
