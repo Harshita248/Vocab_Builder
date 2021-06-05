@@ -7,7 +7,7 @@
 
 ## Screenshot 
 
-![Dictionary UI](/word.png)
+ <img src="/word.png" width="300" title="Dictionary">
 
 
 ## Getting Started
